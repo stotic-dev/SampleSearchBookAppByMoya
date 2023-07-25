@@ -1,0 +1,22 @@
+PODS:
+  - ArkanaKeys (1.0.0):
+    - ArkanaKeysInterfaces (~> 1.0.0)
+  - ArkanaKeysInterfaces (1.0.0)
+
+DEPENDENCIES:
+  - ArkanaKeys (from `./dependencies/ArkanaKeys`)
+  - ArkanaKeysInterfaces (from `./dependencies/ArkanaKeysInterfaces`)
+
+EXTERNAL SOURCES:
+  ArkanaKeys:
+    :path: "./dependencies/ArkanaKeys"
+  ArkanaKeysInterfaces:
+    :path: "./dependencies/ArkanaKeysInterfaces"
+
+SPEC CHECKSUMS:
+  ArkanaKeys: 356555f467c55ae40ba074c1b4d9cb5c38a55f3d
+  ArkanaKeysInterfaces: 81d21923368b058e2b6fd932ec96855166ef6d19
+
+PODFILE CHECKSUM: fdd37eb29c0b002eb89436cf0174e98a6358c137
+
+COCOAPODS: 1.12.1

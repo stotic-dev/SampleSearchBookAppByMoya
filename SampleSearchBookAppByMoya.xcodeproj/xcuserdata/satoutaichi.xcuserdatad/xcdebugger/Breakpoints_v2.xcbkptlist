@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4C82012D-EF40-41F0-A55C-C3657BD212B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19892A86-8D40-4CD8-A606-6EEA0785A848"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "parser(_:didEndElement:namespaceURI:qualifiedName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19892A86-8D40-4CD8-A606-6EEA0785A848 - 90c3e321e58796d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didEndElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "19892A86-8D40-4CD8-A606-6EEA0785A848 - 90c3e321e587967c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didEndElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B9C5E94-D7D8-4FD6-8E0C-AE854CDE0331"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "parser(_:didEndElement:namespaceURI:qualifiedName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B9C5E94-D7D8-4FD6-8E0C-AE854CDE0331 - 90c3e321e58796b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didEndElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "7B9C5E94-D7D8-4FD6-8E0C-AE854CDE0331 - 90c3e321e587965f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didEndElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "491717B3-09C1-4E04-A970-9E490DB00957"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "isEndArrayParentElement"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "338F974D-BCEC-4CA5-BAC4-EEF5D1F7B4F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "parser(_:didStartElement:namespaceURI:qualifiedName:attributes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "338F974D-BCEC-4CA5-BAC4-EEF5D1F7B4F7 - d0f2b284395da18a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didStartElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;, attributes: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "338F974D-BCEC-4CA5-BAC4-EEF5D1F7B4F7 - d0f2b284395da1c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didStartElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;, attributes: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4418AF98-9612-4505-A9EB-7AB1DDC617F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "parser(_:didEndElement:namespaceURI:qualifiedName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4418AF98-9612-4505-A9EB-7AB1DDC617F1 - 90c3e321e587969d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didEndElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "4418AF98-9612-4505-A9EB-7AB1DDC617F1 - 85946f9962021d60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in SampleSearchBookAppByMoya.XmlUtil.parser(_: __C.NSXMLParser, didEndElement: Swift.String, namespaceURI: Swift.Optional&lt;Swift.String&gt;, qualifiedName: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C35A9B17-64F4-4086-A10F-F8CC95E54B9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "parserDidEndDocument(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C35A9B17-64F4-4086-A10F-F8CC95E54B9F - c818d0e95d893914"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parserDidEndDocument(__C.NSXMLParser) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "C35A9B17-64F4-4086-A10F-F8CC95E54B9F - c818d0e95d893956"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parserDidEndDocument(__C.NSXMLParser) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "320F54B0-7181-4F59-82B2-7FF58DFDDD87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "parserDidEndDocument(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "320F54B0-7181-4F59-82B2-7FF58DFDDD87 - c818d0e95d8938d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parserDidEndDocument(__C.NSXMLParser) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "320F54B0-7181-4F59-82B2-7FF58DFDDD87 - c818d0e95d89386c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleSearchBookAppByMoya.XmlUtil.parserDidEndDocument(__C.NSXMLParser) -&gt; ()"
+                  moduleName = "SampleSearchBookAppByMoya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SampleSearchBookAppByMoya/SampleSearchBookAppByMoya/Utils/XmlUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "236EE97C-DF32-46AC-AA54-D9264959E2E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtilWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "convertXmlToObject(with:arrayElements:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05470F7D-7930-4ECC-B37A-19802E0A1410"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Utils/XmlUtilWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "convertXmlToObject(with:arrayElements:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55BC0F5A-923D-4791-AC16-681A037E8F22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Views/LibralySearchResultView/LibralySearchResultPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "requestSearchLibralyBookApi(bookInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8A8960D-EA88-4CD1-B939-B7A51176982F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Views/LibralySearchResultView/LibralySearchResultPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "requestSearchLibralyBookApi(bookInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D99FA53A-D2DE-4F83-98E1-628ED9AE20E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSearchBookAppByMoya/Views/LibralySearchResultView/LibralySearchResultPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "requestSearchLibralyBookApi(bookInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
